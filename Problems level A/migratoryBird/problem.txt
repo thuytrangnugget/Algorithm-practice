@@ -1,0 +1,25 @@
+
+B?n lÖ nhÉn viàn cìng t†c t?i m?t cìng viàn b?o t?n d?ng v?t. VÖo móa dìng, noi nÖy thu?ng c¢ c†c chim di cu d?n bay d?n, vÖ ch£ng s? r?i di vÖo móa h?, d? tçm hi?u s? da d?ng sinh h?c c?a mìi tru?ng cìng viàn b?o t?n cóng v?i di?u ki?n sinh s?ng phó h?p
+
+Ch£ y:
+
+ID c?a m?i lo?i du?c th? hi?n b?ng s? nguyàn.
+Mìi tru?ng c?a khu cìng viàn s? th°ch h?p nh?t v?i lo?i chim c¢ nhi?u con bay d?n nh?t.
+N?u c¢ hai lo?i chim th°ch h?p v?i mìi tru?ng khu cìng viàn nhu nhau, hay l?y lo?i c¢ ID nh? hon.
+V° d?:
+
+list_of_birds = [1, 4, 5, 4, 4, 3] thç migratory_birds(list_of_birds) = 4.
+Gi?i th°ch: C¢ 4 lo?i chim cóng d?n: Lo?i 1, Lo?i 3, Lo?i 4 vÖ Lo?i 5. Trong d¢, lo?i chim c¢ nhi?u con cóng d?n nh?t lÖ lo?i 4.
+Lo?i 1 d?n 1 con
+Lo?i 3 d?n 1 con
+Lo?i 4 d?n 3 con
+Lo?i 5 d?n 1 con
+D?u vÖo/D?u ra:
+
+[Th?i gian ch?y] 0.5s v?i C++, 3s v?i Java vÖ C#, 4s v?i Python, Go vÖ JavaScript.
+
+[D?u vÖo] Array of Integers 
+1 <= list_of_birds.length <= 10^6
+0 <= list_of_birds[i] <= 10^7
+
+[D?u ra] Integer
